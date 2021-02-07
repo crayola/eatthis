@@ -1,7 +1,7 @@
 name,like,min_delay,health,effort,months,gcp_type
-Beef Bourguignon,9,60,3,4,1111,111
-Hot dog,10,7,2,2,1111,011
-Raclette,10,30,2,3,1000,011
+beef bourguignon,9,60,3,4,1111,111
+hot dog,10,7,2,2,1111,011
+raclette,10,30,2,3,1000,011
 ratatouille,7,60,5,4,1111,101
 kartoffelpuffer,8,14,2,2,1111,010
 sweet potatoes,7,7,3,2,1111,110
@@ -12,3 +12,25 @@ green beans,7,4,5,2,1111,100
 brussel sprouts,7,4,5,3,1000,100
 zucchini,7,3,4,2,1111,100
 aubergine,7,7,4,3,1111,100
+kohlrabi,7,7,5,2,1111,100
+homemade pizza,9,14,3,3,1111,011
+fondue savoyarde,,,,,,
+tartiflette,,,,,,
+tortellini,,,,,,
+pasta,,,,,,
+rice,,,,,,
+quiche,,,,,,
+fondue bourguignonne,,,,,,
+fishfingers + spinach,,,,,,
+chicken,,,,,,001
+flammkuchen,"","","","","",""
+bready meal,"","","","","",""
+soup,"","","","","",""
+broccoli,"","","","","",""
+something new,"","","","","",""
+butcher jar,"","","","","",""
+bratwurst,"","","","","",""
+kinder dinos,"","","","","",""
+omelette,"","","","","",""
+burger,"","","","","",""
+risotto,"","","","","",""
