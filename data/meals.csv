@@ -1,4 +1,4 @@
-name,like,min_delay,health,effort,months,gcp_type
+name,like,min_delay,health,effort,seasons,gcp_types
 beef bourguignon,9,60,3,4,1111,111
 hot dog,10,7,2,2,1111,011
 raclette,10,30,2,3,1000,011
@@ -14,23 +14,23 @@ zucchini,7,3,4,2,1111,100
 aubergine,7,7,4,3,1111,100
 kohlrabi,7,7,5,2,1111,100
 homemade pizza,9,14,3,3,1111,011
-fondue savoyarde,,,,,,
-tartiflette,,,,,,
-tortellini,,,,,,
-pasta,,,,,,
-rice,,,,,,
-quiche,,,,,,
-fondue bourguignonne,,,,,,
-fishfingers + spinach,,,,,,
-chicken,,,,,,001
-flammkuchen,"","","","","",""
-bready meal,"","","","","",""
-soup,"","","","","",""
-broccoli,"","","","","",""
-something new,"","","","","",""
-butcher jar,"","","","","",""
-bratwurst,"","","","","",""
-kinder dinos,"","","","","",""
-omelette,"","","","","",""
-burger,"","","","","",""
-risotto,"","","","","",""
+fondue savoyarde,0,0,0,0,1111,000
+tartiflette,0,0,0,0,1111,000
+tortellini,0,0,0,0,1111,000
+pasta,0,0,0,0,1111,000
+rice,0,0,0,0,1111,000
+quiche,0,0,0,0,1111,000
+fondue bourguignonne,0,0,0,0,1111,000
+fishfingers + spinach,0,0,0,0,1111,000
+chicken,0,0,0,0,1111,001
+flammkuchen,0,0,0,0,1111,000
+bready meal,0,0,0,0,1111,000
+soup,0,0,0,0,1111,000
+broccoli,0,0,0,0,1111,000
+something new,0,0,0,0,1111,000
+butcher jar,0,0,0,0,1111,000
+bratwurst,0,0,0,0,1111,000
+kinder dinos,0,0,0,0,1111,000
+omelette,0,0,0,0,1111,000
+burger,0,0,0,0,1111,000
+risotto,0,0,0,0,1111,000
